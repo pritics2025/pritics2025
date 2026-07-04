@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌸 Hi, I'm Priti!<br><br>👩‍💻 A Computer Science student passionate about building clean and user-friendly applications.<br><br>📱 Currently exploring Flutter, Java, and Full Stack Development while continuously learning through real-world projects.<br><br>🌱 I enjoy turning ideas into code, solving problems, and growing a little every day.<br><br>✨ "Code. Learn. Create. Repeat."
+🌸 Hi, I'm Priti!<br><br>👩‍💻 A Computer Science student passionate about building clean and user-friendly applications.<br>📱 Currently exploring Flutter, Java, and Full Stack Development while continuously learning through real-world projects.<br>🌱 I enjoy turning ideas into code, solving problems, and growing a little every day.<br>✨ "Code. Learn. Create. Repeat."
 
 
 ## 🌐 Socials:
